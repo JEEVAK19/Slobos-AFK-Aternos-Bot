@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "JEEVAK19.aternos.me",
+    "ip": "cherubfish.aternos.host",
     "port": 23830,
     "version": "1.21.11",
     "try-creative": false
